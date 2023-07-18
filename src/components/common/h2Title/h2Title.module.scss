@@ -1,7 +1,7 @@
 @import "../../../scss/main.scss";
 .title {
   @include flex-col(center, center);
-  margin-bottom: 39px;
+  margin-bottom: 40px;
   & h2 {
     color: $LIGHTBLACK;
     font-family: Forum;
